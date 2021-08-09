@@ -1,0 +1,7 @@
+1.create new envirnoment-- conda create -n myenv python=3.6
+2. activate enivornment 
+3. change directory and then open jupyter notebook
+4. Perfrom data cleaning and create model
+5. Save model using pickle library
+6. create index.html(frontend of web app)
+7. create app.py (backend for web app)
